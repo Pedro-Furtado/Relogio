@@ -255,3 +255,9 @@ main{
     
 }
 /* </Segundos> */
+
+@media screen and (max-width:767px){
+    .relogio{
+        width: 90%;
+    }
+}
